@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // 配置区块
 let 订阅路径 = "订阅路径";
-let 伪装网页 = "https://example.com";
+let 伪装网页 = "example.com";
 let 验证UUID;
 let 优选链接 = "https://raw.githubusercontent.com/zbq1926/edgetunnel1/refs/heads/main/output.txt";
 let 优选列表 = [];
