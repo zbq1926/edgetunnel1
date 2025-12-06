@@ -2,13 +2,13 @@ import { connect } from "cloudflare:sockets";
 
 // 配置区块
 let 订阅路径 = "订阅路径";
-let 伪装网页;
+let 伪装网页 = "https://tv.cctv.com/live/cctvjilu/?spm=C28340.PQEMFbwOfB3S.ExidtyEJcS5K.21";
 let 验证UUID;
 let 优选链接 = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/output.txt";
 let 优选列表 = [];
 let NAT64前缀 = "2a02:898:146:64::";
 let DOH地址 = "dns.alidns.com/dns-query";
-let 反代IP = "proxyip.cmliussss.net";
+let 反代IP = "sjc.o00o.ooo";
 
 // 关键词拆分(防检测)
 const 威图锐拆分 = ["v2", "ray"];
