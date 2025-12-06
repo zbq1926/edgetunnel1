@@ -7,7 +7,7 @@ let 验证UUID;
 let 优选链接 = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/output.txt";
 let 优选列表 = [];
 let NAT64前缀 = "2a02:898:146:64::";
-let DOH地址 = "1.1.1.1";
+let DOH地址 = "dns.alidns.com/dns-query";
 let 反代IP = "proxyip.cmliussss.net";
 
 // 关键词拆分(防检测)
