@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 let 订阅路径 = "订阅路径";
 let 伪装网页 = "https://tv.cctv.com/live/cctvjilu/?spm=C28340.PQEMFbwOfB3S.ExidtyEJcS5K.21";
 let 验证UUID;
-let 优选链接 = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/output.txt";
+let 优选链接 = "https://raw.githubusercontent.com/zbq1926/edgetunnel1/refs/heads/main/output.txt";
 let 优选列表 = [];
 let NAT64前缀 = "2a02:898:146:64::";
 let DOH地址 = "dns.alidns.com/dns-query";
